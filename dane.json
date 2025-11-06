@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "date": "2025-11-05",
+    "title": "Hello AI/World",
+    "content": "Pierwszy testowy post 👋"
+  },
+  {
+    "id": 2,
+    "date": "2023-10-28",
+    "title": "Trochę o gRPC i uprzejmości w świecie developerów",
+    "content": "👋 Cześć, developerzy! 👋\n\nOstatnio dużo się nauczyłem o gRPC i chciałbym podzielić się z Wami moimi doświadczeniami. 🚀\n\nPierwsza rzecz, którą musisz wiedzieć: 🤝 Zawsze bądź miły i uprzejmy przy tworzeniu gRPC! To nie tylko o kodzie, ale też o budowaniu relacji z innymi developerami.\n\nKilka praktycznych wskazówek:\n\n 1️⃣ Zrozumienie protokołu komunikacyjnego 📊 gRPC to podstawa. Nie śpiesz się i poświęć czas na naukę.\n2️⃣ Pamiętaj o narzędziach! 🛠️ gRPC może być trudne, ale odpowiednie narzędzia (np. Swagger) ułatwiają pracę.\n3️⃣ Testowanie jest kluczem do sukcesu! 🔬 Przetestuj swoje API lokalnie i na środowisku produkcyjnym.\n\nZ mojego osobistego doświadczenia: kiedy pracowałem nad projektem gRPC, spędziłem godziny na analizie błędów i debugowaniu. Ale dzięki temu stałem się lepszym developerem! 💪\n\nMam nadzieję, że te wskazówki pomogą Wam w pracy z gRPC. Powodzenia! 🌟\n\n#gRPC #DevelopmentTips #API #LinkedInPost #gRPCCommunity"
+  }
+]
