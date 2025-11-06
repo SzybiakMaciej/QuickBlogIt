@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/QuickLockIT/static/css/main.f79bb36c.css",
-    "main.js": "/QuickLockIT/static/js/main.003d4f3b.js",
-    "static/js/627.dfeff215.chunk.js": "/QuickLockIT/static/js/627.dfeff215.chunk.js",
-    "index.html": "/QuickLockIT/index.html",
-    "main.f79bb36c.css.map": "/QuickLockIT/static/css/main.f79bb36c.css.map",
-    "main.003d4f3b.js.map": "/QuickLockIT/static/js/main.003d4f3b.js.map",
-    "627.dfeff215.chunk.js.map": "/QuickLockIT/static/js/627.dfeff215.chunk.js.map"
+    "main.css": "/QuickBlogIt/static/css/main.f79bb36c.css",
+    "main.js": "/QuickBlogIt/static/js/main.fa6940f1.js",
+    "static/js/627.dfeff215.chunk.js": "/QuickBlogIt/static/js/627.dfeff215.chunk.js",
+    "index.html": "/QuickBlogIt/index.html",
+    "main.f79bb36c.css.map": "/QuickBlogIt/static/css/main.f79bb36c.css.map",
+    "main.fa6940f1.js.map": "/QuickBlogIt/static/js/main.fa6940f1.js.map",
+    "627.dfeff215.chunk.js.map": "/QuickBlogIt/static/js/627.dfeff215.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f79bb36c.css",
-    "static/js/main.003d4f3b.js"
+    "static/js/main.fa6940f1.js"
   ]
 }
